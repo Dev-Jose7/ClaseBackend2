@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cesde</groupId>
-	<artifactId>practicaendpoints</artifactId>
+	<artifactId>practica1endpoints</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>practicaendpoints</name>
 	<description>Práctica de Spring Boot</description>
